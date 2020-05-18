@@ -6,7 +6,6 @@
 - [Technologies Used](#Technologies)
 - [Contributors](#Contributors)
 - [Acknowledgments](#Acknowledgments)
-- [Original README](#Original README)
 
 
 ## Status: Completed
